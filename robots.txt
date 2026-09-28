@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudarshanbait-lang.github.io/janta-traders-website/sitemap.xml
